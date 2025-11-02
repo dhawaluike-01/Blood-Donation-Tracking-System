@@ -1,3 +1,13 @@
+## Contract Details
+Contract ID: CALIVF5UGOM4GEGT2WXU4BTBLEKBKIFDDACZ2ILN4ED72UKVAMIQMNXG
+
+---
+
+**Together, let's build a safer and more transparent blood donation ecosystem!** 🩸
+
+![alt text](image.png)
+
+
 # Blood Donation Tracking System
 
 ## Project Title
@@ -124,10 +134,3 @@ soroban contract deploy \
 ## Contributing
 We welcome contributions from the community! Please read our contributing guidelines before submitting pull requests.
 
-## Contract Details
-Contract ID: CALIVF5UGOM4GEGT2WXU4BTBLEKBKIFDDACZ2ILN4ED72UKVAMIQMNXG
-
----
-
-**Together, let's build a safer and more transparent blood donation ecosystem!** 🩸
-![alt text](image.png)
