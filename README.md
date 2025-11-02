@@ -1,5 +1,5 @@
 ## Contract Details
-Contract ID: CALIVF5UGOM4GEGT2WXU4BTBLEKBKIFDDACZ2ILN4ED72UKVAMIQMNXG
+Contract ID: CDGZMSPBA2HT6OMKNFFGV74ETUZLIEXI3KYT4SVJPIFSBX2RC6L2VWMV
 
 ---
 
@@ -133,4 +133,3 @@ soroban contract deploy \
 
 ## Contributing
 We welcome contributions from the community! Please read our contributing guidelines before submitting pull requests.
-
